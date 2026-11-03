@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan Job Finder",
+  "description": "Discover verified tech, corporate, government (BPS/FPSC), and remote jobs across Karachi, Lahore, Islamabad, and nationwide with smart AI career tools and FBR salary tax calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
